@@ -1,0 +1,140 @@
+{
+    "appleSpecies": [
+      {
+        "latinName": "Malus domestica",
+        "commonName": "Domestic Apple",
+        "varieties": [
+          {
+            "name": "Golden Delicious",
+            "apples": [
+              {
+                "color": "Yellow-green",
+                "flavor": "Sweet",
+                "origin": "West Virginia, USA",
+                "harvestSeason": "Late September"
+              }
+            ]
+          },
+          {
+            "name": "Red Delicious",
+            "apples": [
+              {
+                "color": "Deep red",
+                "flavor": "Mildly sweet",
+                "origin": "Iowa, USA",
+                "harvestSeason": "September to October"
+              }
+            ]
+          },
+          {
+            "name": "McIntosh",
+            "apples": [
+              {
+                "color": "Red and green",
+                "flavor": "Tart and juicy",
+                "origin": "Ontario, Canada",
+                "harvestSeason": "Late September to early October"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "latinName": "Malus sylvestris",
+        "commonName": "European Crab Apple",
+        "varieties": [
+          {
+            "name": "Granny Smith",
+            "apples": [
+              {
+                "color": "Bright green",
+                "flavor": "Tart",
+                "origin": "Australia",
+                "harvestSeason": "Mid to late October"
+              }
+            ]
+          },
+          {
+            "name": "Bramley",
+            "apples": [
+              {
+                "color": "Green with red blush",
+                "flavor": "Very tart",
+                "origin": "England",
+                "harvestSeason": "October to November"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "latinName": "Malus pumila",
+        "commonName": "Paradise Apple",
+        "varieties": [
+          {
+            "name": "Fuji",
+            "apples": [
+              {
+                "color": "Red with yellow-green",
+                "flavor": "Sweet and crisp",
+                "origin": "Japan",
+                "harvestSeason": "Late October"
+              }
+            ]
+          },
+          {
+            "name": "Gala",
+            "apples": [
+              {
+                "color": "Red-orange with yellow stripes",
+                "flavor": "Mildly sweet",
+                "origin": "New Zealand",
+                "harvestSeason": "Late August to early September"
+              }
+            ]
+          },
+          {
+            "name": "Honeycrisp",
+            "apples": [
+              {
+                "color": "Red with yellow background",
+                "flavor": "Sweet-tart",
+                "origin": "Minnesota, USA",
+                "harvestSeason": "Mid September to early October"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "latinName": "Malus baccata",
+        "commonName": "Siberian Crab Apple",
+        "varieties": [
+          {
+            "name": "Dolgo",
+            "apples": [
+              {
+                "color": "Bright red",
+                "flavor": "Tart",
+                "origin": "Russia",
+                "harvestSeason": "August to September"
+              }
+            ]
+          },
+          {
+            "name": "Chestnut Crab",
+            "apples": [
+              {
+                "color": "Reddish-bronze",
+                "flavor": "Sweet-tart",
+                "origin": "Minnesota, USA",
+                "harvestSeason": "Late August to early September"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+
